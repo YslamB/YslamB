@@ -37,15 +37,6 @@ These days I am focused on:
 | [**go-sops**](https://github.com/YslamB/go-sops) | Practical secret management for Go applications using SOPS and GPG, with examples for encrypted YAML configuration and environment variables. |
 | [**goPatterns**](https://github.com/YslamB/goPatterns) | Go implementations of creational, structural, and behavioral design patterns, created as a hands-on software design reference. |
 
-## GitHub activity
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YslamB&theme=github_dark"
-    alt="Yslam's GitHub activity statistics"
-  />
-</div>
-
 
 
 ## Toolbox
