@@ -46,13 +46,7 @@ These days I am focused on:
   />
 </div>
 
-<div align="center">
-  <img
-    src="./github-activity-plus.svg"
-    alt="Commits, code reviews, issues, and pull requests"
-    width="700"
-  />
-</div>
+
 
 ## Toolbox
 
